@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/66232cbe-510c-404e-8172-29663f054d00
+
+
+
 # Cloud Security Governance Platform
 
 A production-quality, visually stunning Cloud Security Governance web application. This platform provides multi-cloud security posture management with a fully animated, glassmorphic dark mode UI.
