@@ -10,6 +10,7 @@ A production-quality, visually stunning Cloud Security Governance web applicatio
 
 ## Features
 
+
 - **Multi-Cloud Support**: Top-level switcher to filter data across All Clouds, AWS, Azure, and GCP.
 - **Dashboard**: High-level KPIs, 30-day risk trend, findings severity distribution, and compliance posture.
 - **Findings & Alerts**: Filterable findings table with a slide-out drawer detailing business impact, remediation steps, and linked compliance controls.
