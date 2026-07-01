@@ -52,5 +52,4 @@ The Vite server is configured to proxy or connect to the backend API seamlessly.
 ## Usage
 - Open `http://localhost:5173` in your browser.
 - The **Login** screen accepts *any* credentials (demo mode).
-- Explore the dashboard, switch between cloud providers in the top bar, and navigate through the side menu to view different modules of the
-- platform.
+- Explore the dashboard, switch between cloud providers in the top bar, and navigate through the side menu to view different modules of the platform.
