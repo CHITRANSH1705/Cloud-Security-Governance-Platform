@@ -21,7 +21,6 @@ A production-quality, visually stunning Cloud Security Governance web applicatio
 - **Settings**: Manage connected accounts, API keys, and notification rules.
 
 ## Tech Stack
-
 - **Frontend**: Vite + React (TypeScript)
 - **Styling**: Tailwind CSS (custom glassmorphism design system)
 - **Visuals**: Framer Motion (page transitions, micro-interactions) & Recharts (animated charts)
