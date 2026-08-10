@@ -17,6 +17,8 @@ A production-quality, visually stunning Cloud Security Governance web applicatio
 - **Reports**: Generate and download various executive and technical security reports.
 - **Settings**: Manage connected accounts, API keys, and notification rules.
 
+
+
   
 ## Tech Stack
 - **Frontend**: Vite + React (TypeScript)
