@@ -19,8 +19,6 @@ A production-quality, visually stunning Cloud Security Governance web applicatio
 
 
 
-
-
   
 ## Tech Stack
 - **Frontend**: Vite + React (TypeScript)
