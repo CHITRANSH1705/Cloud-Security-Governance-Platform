@@ -7,8 +7,6 @@ https://github.com/user-attachments/assets/66232cbe-510c-404e-8172-29663f054d00
 A production-quality, visually stunning Cloud Security Governance web application. This platform provides multi-cloud security posture management with a fully animated, glassmorphic dark mode UI.
 
 ## Features
-
-
 - **Multi-Cloud Support**: Top-level switcher to filter data across All Clouds, AWS, Azure, and GCP.
 - **Dashboard**: High-level KPIs, 30-day risk trend, findings severity distribution, and compliance posture.
 - **Findings & Alerts**: Filterable findings table with a slide-out drawer detailing business impact, remediation steps, and linked compliance controls.
