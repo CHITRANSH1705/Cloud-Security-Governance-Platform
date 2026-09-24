@@ -24,6 +24,7 @@ A production-quality, visually stunning Cloud Security Governance web applicatio
 - **Icons**: Lucide React
 - **Backend**: Node.js + Express (mock REST API server)
 
+
 ## Setup Instructions
 
 
